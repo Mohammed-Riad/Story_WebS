@@ -1,0 +1,54 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+#ll
+{
+    text-transform: capitalize;
+}
+#lm
+{
+    text-transform: capitalize;
+}
+
+#ss
+{
+    width: 200px;
+    height: 200px;
+}
+#bu
+{
+width: 100px;
+height:30px;
+border-radius: 70px;
+background-color:yellow;
+color: red;
+border: red 2px solid
+}
+#bu:hover
+{
+    cursor: pointer;
+    background-color:black;
+}
+
+#bd
+{
+width: 100px;
+height:30px;
+border-radius: 70px;
+background-color:yellow;
+color: red;
+border: red 2px solid
+}
+#bd:hover
+{
+    cursor: pointer;
+    background-color:black;
+}
+
